@@ -6,7 +6,7 @@
 
 # Summary
 - Here I have created a python code that will detect the face of user, if the confidence is more than 85 and user hits enter, it will launch an infrastructure on AWS cloud using Terraform.
-- Meanwhile the photo of the user will be clicked and as soon as the infrastrucer is deployed it send an email the owner who has launched the infrastructure
+- Meanwhile the photo of the user will be clicked and as soon as the infrastrucer is deployed it send an email the owner who has launched the infrastructure.
 
 
 
